@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I am currently a 4th year student at Polytech Montpellier (a highly selective Engineering School in the South of France), preparing a 5-year Engineering qualification in Computer Science and Management (equivalent to a master’s degree in Engineering).
+Ambition, drive and hard-work, those are the three pillars I stand by day-to-day. 
 
-Our qualification, a “diplôme d'ingénieur”, is fully recognized by the French National Engineering Audit Commission (CTI) and classes in both theoretical and practical subjects prepare us for future careers in a variety of domains related to Computer Science and Management, such as information system design and analysis, software engineering, databases, programming languages, mobile and web application development.
-
-As our school places much importance on education directly applied to professional experience, each student completes a variety of work experience placements in firms throughout the course.
+After obtaining a perfect score on the National French Baccalauréat, I undertook two years of rigorous and relentless Maths and Physics training where I discovered a passion for Software Development and Computer Science, which led me to succeed in a competitive examination which allowed me to join the highly selective Master of Engineering program at Polytech Montpellier, where I am now studying Software Engineering, Artificial Intelligence, Cloud Computing, Computer Science and Management.
 
 **Should you have any questions, please do not hesitate to contact me.**
